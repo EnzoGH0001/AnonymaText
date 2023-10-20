@@ -1,1 +1,22 @@
-node_modules
+# Dossiers
+node_modules/
+dist/
+build/
+.cache/
+
+# Fichiers
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers de configuration
+.DS_Store
+.env
+
+# Dépendances ou fichiers générés
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
