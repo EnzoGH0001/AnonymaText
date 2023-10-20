@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/EnzoGH0001/AnonymaText#readme",
   "dependencies": {
-    "electron": "^27.0.1"
+    "electron": "^27.0.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
   }
 }
